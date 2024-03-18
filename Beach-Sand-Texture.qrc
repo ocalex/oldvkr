@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Beach-Sand-Texture.jpg</file>
+        <file>e.bmp</file>
+        <file>spy.bmp</file>
+    </qresource>
+</RCC>
